@@ -1,0 +1,16 @@
+h1{
+    color:maroon;
+}
+
+.post{
+    background-color: rgb(197, 135, 114);
+
+}
+.user{
+    font-style: italic;
+    
+}
+.content{
+       font-weight: bold;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
